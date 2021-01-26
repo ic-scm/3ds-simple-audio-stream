@@ -1,5 +1,5 @@
 //Simple 3DS audio file streaming example
-//Written by I.C. - relased to public domain
+//Written by I.C. - released to public domain
 
 #include <stdio.h>
 #include <stdlib.h>
